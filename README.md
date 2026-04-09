@@ -56,7 +56,9 @@ Using NetBeans:
 🧮 Example Output
 
 Original array: [64, 34, 25, 12, 22, 11, 90, 5, 55]
+
 Sorted array in descending order: [90, 64, 55, 34, 25, 22, 12, 11, 5]
+
 Sorted array in ascending order: [5, 11, 12, 22, 25, 34, 55, 64, 90]
 
 ------------------------
