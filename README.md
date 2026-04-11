@@ -25,9 +25,13 @@ Key concepts covered:
 🚀 Features
 
 ✅ Displays original array
+
 ✅ Sorts array in descending order
+
 ✅ Sorts array in ascending order
+
 ✅ Uses optimized Bubble Sort (early exit if already sorted)
+
 ✅ Clear console output
 
 --------------------
